@@ -1,0 +1,1 @@
+{"expo":{"name":"LG Smart Remote","slug":"lg-smart-remote","version":"0.1.0","orientation":"portrait","ios":{"supportsTablet":false,"infoPlist":{"NSLocalNetworkUsageDescription":"Connect to LG TV on home network.","NSAppTransportSecurity":{"NSAllowsLocalNetworking":true}}},"plugins":["expo-secure-store"]}}
